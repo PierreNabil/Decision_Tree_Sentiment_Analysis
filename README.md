@@ -1,2 +1,4 @@
-# 3rdCSE_2ndTerm_DataStructures_Project3
+# Decision_Tree_Sentiment_Analysis
 A Simple Classification Algorithm using Decision Trees.
+
+3rd year 2nd term Data Structures Project.
